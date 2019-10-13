@@ -10,8 +10,8 @@ Supported versions:
 * Version 5, based on SHA-1 hashing (RFC 4122)
 
 ## History
-I fork this repository from [github.com/satori/go.uuid](https://github.com/satori/go.uuid) after it seems to be no longer maintained.
-Then I decided to make a little development and maintenance because there were many issues that hadn't been completed in more than a year. And I get a few issues while working on a product.
+This repository based on from [github.com/satori/go.uuid](https://github.com/satori/go.uuid) after it seems to be no longer maintained.
+Then I decided to make a little modification and maintenance because there were many issues that hadn't been completed in more than a year. And I get a few issues while working on a product.
 
 Hopefully this repository can help other people who want to use uuid on Go.
 
